@@ -1,4 +1,6 @@
 # emicalculator
+#output![3](https://user-images.githubusercontent.com/118950801/203718249-99190fa4-08c1-4664-9b95-24812b90c9a0.png)
+
 
 A new Flutter project.
 
